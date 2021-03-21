@@ -9,7 +9,7 @@ $template.innerHTML = /*html*/`
                 </nav>
             </div>
             <div class="d-inline-flex justify-content-end col mt-3">
-                <button type="button" class="btn btn-success mb-3">Cho Vay</button>
+                <button type="button" class="btn btn-success mb-3">Đăng kí vay</button>
             </div>
         </div>
     </div>
