@@ -1,0 +1,1 @@
+import ChoVay from "./components/chovay.js";
